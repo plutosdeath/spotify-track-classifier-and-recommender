@@ -2,11 +2,11 @@
 
 ## Features
 
-- 🔍 Clusters over 23,000 Spotify tracks using K-Means based on audio features
-- 🎼 Assigns intuitive genre labels to clusters (e.g., "Pop", "Ambient / Classical")
-- 🎛️ Streamlit app lets users enter custom track features
-- 🎵 Predicts genre and recommends similar songs
-- 📈 Includes visual analysis: heatmaps, PCA, radar charts (optional)
+- Clusters over 23,000 Spotify tracks using K-Means based on audio features
+- Assigns intuitive genre labels to clusters (e.g., "Pop", "Ambient / Classical")
+- Streamlit app lets users enter custom track features
+- Predicts genre and recommends similar songs
+- Includes visual analysis: heatmaps, PCA, radar charts (optional)
 
 ---
 
