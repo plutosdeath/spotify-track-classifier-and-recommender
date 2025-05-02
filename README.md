@@ -41,3 +41,11 @@ Run the Streamlit app locally:
 
 ```bash
 streamlit run streamlit_app.py
+```
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/3faef693-710e-4b56-ac1d-ef0274701c3b)
+
+![image](https://github.com/user-attachments/assets/9363f1fa-10d6-49a0-88e4-6f7187df7ed5)
+
